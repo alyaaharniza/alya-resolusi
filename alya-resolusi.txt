@@ -1,0 +1,4 @@
+ALYA RESOLUSI
+- Memahami pemrograman dalam bahasa Laravel
+- Membuat sebuah website dengan bahasa Laravel
+- Bisa bekerja dengan Team.
