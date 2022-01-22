@@ -1,0 +1,8 @@
+RENCANA KONTEN ALYA
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
