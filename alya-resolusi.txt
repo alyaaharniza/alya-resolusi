@@ -3,4 +3,4 @@ ALYA RESOLUSI
 - Membuat sebuah website dengan bahasa Laravel
 - Bisa bekerja dengan Team.
 - Bisa Lebih Rajin
-- Bisa menjadi pribadi yang lebih dewasa
+- Menambah Skill Baru
